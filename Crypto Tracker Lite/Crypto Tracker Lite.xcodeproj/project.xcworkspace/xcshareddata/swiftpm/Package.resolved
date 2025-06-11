@@ -1,0 +1,24 @@
+{
+  "originHash" : "22c0434c96750bb01d3e81fe523cf4219d61f8c87358f456fc31e02852f71700",
+  "pins" : [
+    {
+      "identity" : "charts",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/danielgindi/Charts",
+      "state" : {
+        "revision" : "dd9c72e3d7e751e769971092a6bd72d39198ae63",
+        "version" : "5.1.0"
+      }
+    },
+    {
+      "identity" : "sdwebimage#:~:text=sdwebimage%20repo%27s%20url",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage#:~:text=SDWebImage%20repo%27s%20URL",
+      "state" : {
+        "revision" : "cac9a55a3ae92478a2c95042dcc8d9695d2129ca",
+        "version" : "5.21.0"
+      }
+    }
+  ],
+  "version" : 3
+}
